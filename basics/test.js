@@ -1,1 +1,1 @@
-console.log("Aashish")
+console.log
